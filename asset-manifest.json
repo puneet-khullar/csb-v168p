@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://puneet-khullar.github.io/csb-v168p/static/css/main.d888f8bf.chunk.css",
+    "main.js": "https://puneet-khullar.github.io/csb-v168p/static/js/main.aee1f833.chunk.js",
+    "main.js.map": "https://puneet-khullar.github.io/csb-v168p/static/js/main.aee1f833.chunk.js.map",
+    "runtime-main.js": "https://puneet-khullar.github.io/csb-v168p/static/js/runtime-main.f588f40e.js",
+    "runtime-main.js.map": "https://puneet-khullar.github.io/csb-v168p/static/js/runtime-main.f588f40e.js.map",
+    "static/js/2.0c7ea6fb.chunk.js": "https://puneet-khullar.github.io/csb-v168p/static/js/2.0c7ea6fb.chunk.js",
+    "static/js/2.0c7ea6fb.chunk.js.map": "https://puneet-khullar.github.io/csb-v168p/static/js/2.0c7ea6fb.chunk.js.map",
+    "index.html": "https://puneet-khullar.github.io/csb-v168p/index.html",
+    "precache-manifest.e21d1458bc16c4bf98e6f3b2440bd7a5.js": "https://puneet-khullar.github.io/csb-v168p/precache-manifest.e21d1458bc16c4bf98e6f3b2440bd7a5.js",
+    "service-worker.js": "https://puneet-khullar.github.io/csb-v168p/service-worker.js",
+    "static/css/main.d888f8bf.chunk.css.map": "https://puneet-khullar.github.io/csb-v168p/static/css/main.d888f8bf.chunk.css.map",
+    "static/js/2.0c7ea6fb.chunk.js.LICENSE": "https://puneet-khullar.github.io/csb-v168p/static/js/2.0c7ea6fb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f588f40e.js",
+    "static/js/2.0c7ea6fb.chunk.js",
+    "static/css/main.d888f8bf.chunk.css",
+    "static/js/main.aee1f833.chunk.js"
+  ]
+}
